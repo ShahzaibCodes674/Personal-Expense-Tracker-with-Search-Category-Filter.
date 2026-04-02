@@ -13,4 +13,4 @@ Tools Used:
 - Tkinter
 
 Outcome:
-- Helps users manage their spending and maintain financial disciplin
+- Helps users manage their spending and maintain financial discipline.
